@@ -213,14 +213,12 @@ img[alt="headphone"] {
 
        nav {
         display: flex;
-        justify-content: space-between;
-        
+        justify-content: space-between; 
        }
     
        .intro-section {
         display: flex;
-        flex-direction: column;
-        
+        flex-direction: column;    
        }
     
        .dots {
